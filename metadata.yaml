@@ -1,0 +1,44 @@
+_repo: Picnic_68600
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Eberle, Joseph
+    aliases:
+    - Eberle, Joseph R.
+    - Eberle, J. R.
+    birthdate: 1926
+    deathdate: 2006
+    gutenberg_agent_id: '52485'
+    url: http://www.gutenberg.org/2009/agents/52485
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Granger, Darius John
+    - Chase, Adam
+    - Lesser, Milton
+    - Thames, C. H.
+    - Ridgway, Jason
+    - Wilder, Stephen
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2022-07-24'
+identifiers:
+  gutenberg: '68600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asteroids -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Picnic
+url: http://www.gutenberg.org/ebooks/68600
